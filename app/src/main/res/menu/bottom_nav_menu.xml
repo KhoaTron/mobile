@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_alarm"
+        android:icon="@drawable/alarm_24"
+        android:title="Báo thức" />
+
+    <item
+        android:id="@+id/navigation_bamgio"
+        android:icon="@drawable/bamgio_timer_24"
+        android:title="Bấm giờ" />
+
+    <item
+        android:id="@+id/navigation_hengio"
+        android:icon="@drawable/hengio_24"
+        android:title="Hẹn giờ" />
+
+    <item
+        android:id="@+id/navigation_alarmadd"
+        android:icon="@drawable/alarm_add_24"
+        android:title="Thêm" />
+
+</menu>
