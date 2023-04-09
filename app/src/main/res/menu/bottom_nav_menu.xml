@@ -4,7 +4,7 @@
     <item
         android:id="@+id/navigation_alarm"
         android:icon="@drawable/alarm_24"
-        android:title="Báo thức" />
+        android:title="Màn hình chính" />
 
     <item
         android:id="@+id/navigation_bamgio"

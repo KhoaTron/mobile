@@ -23,7 +23,7 @@ public class HengioFragment extends Fragment {
         binding = FragmentHengioBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textHengio;
+        final TextView textView = binding.edtTime;
         HengioViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
